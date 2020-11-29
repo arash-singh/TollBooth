@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using Newtonsoft.Json;
 
+//GITHUBPRACTICE
+
 namespace TollBooth.Models
 {
     public class Event<T> where T : class
