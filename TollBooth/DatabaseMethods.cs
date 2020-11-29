@@ -18,6 +18,7 @@ namespace TollBooth
         private readonly string _collectionId = Environment.GetEnvironmentVariable("cosmosDBCollectionId");
         private readonly ILogger _log;
         // Reusable instance of DocumentClient which represents the connection to a Cosmos DB endpoint.
+		//Added new comment
         private DocumentClient _client;
 
         public DatabaseMethods(ILogger log)
