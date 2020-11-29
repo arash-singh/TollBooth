@@ -5,7 +5,7 @@ using Newtonsoft.Json;
 
 //GITHUBPRACTICE
 ARASHISSTUPID
-DILRAJISSOSMART
+DILRAJISSOSMART - bUT stupid
 
 namespace TollBooth.Models
 {
