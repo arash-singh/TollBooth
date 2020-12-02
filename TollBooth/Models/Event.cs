@@ -4,7 +4,7 @@ using System.Text;
 using Newtonsoft.Json;
 
 namespace TollBooth.Models
-{
+{GIT HUB EASY
     public class Event<T> where T : class
     {
         [JsonProperty(PropertyName = "id")]
